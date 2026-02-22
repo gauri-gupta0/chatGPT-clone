@@ -6,7 +6,7 @@
 
 ## Features
 
-- **Chat Interface**: Clean, dark-mode UI inspired by ChatGPT.
+- **Chat Interface**: Clean, dark-mode UI, making it a complete clone. 
 - **Message History**: Saves chat history to local storage.
 - **Node.js Backend**: Uses Express to proxy requests to OpenAI, keeping your API key secure.
 
